@@ -1,3 +1,5 @@
+package Modulo1.AnatomiaClasses;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Primeira mensagem em Java");
